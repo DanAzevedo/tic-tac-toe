@@ -11,6 +11,7 @@
 <h3>Jogo Pedra, Papael e Tesoura feito em python durante curso realizado para prática do uso de programação orientada a objetos.</h3>
 <h3>Tic-Tac-Toe game made in python during a course held to practice the use of object-oriented programming.</h3>
 
+> <h3>✔️Tecnologias utilizadas/Technologies used</h3>
 - [Python 3.9](https://www.python.org/)
 - [Random](https://docs.python.org/3/library/random.html)
 - [OS](https://docs.python.org/3/library/os.html)
